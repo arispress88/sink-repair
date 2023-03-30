@@ -1,0 +1,36 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+}
+
+.input {
+    width: 550px;
+    background-color: white;
+}
+
+.button {
+    font-family: 'Times New Roman', Times, serif,;
+    background-color: green;
+    font-size: 20px;
+    color: white;
+}
+
+.request__delete {
+    background-color: red;
+    color: white;
+}
+
+.serviceRequests h2 {
+    background-color: lightgreen;
+    width: 550px;
+}
+
+h1 {
+    background-color: lightgreen;
+    width: 550px;
+}
+
+.plumbers {
+    background-color: white;
+}
